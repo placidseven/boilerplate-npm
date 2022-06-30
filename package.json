@@ -9,6 +9,7 @@
 		"url": "https://whatever.com"
 	},
 	"description": "A project that does something awesome",
+	"keywords": [ "descriptive", "related", "words" ],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
