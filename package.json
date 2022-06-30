@@ -3,7 +3,11 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "spliced0",
+	"author": {
+		"name": "Joe",
+		"email": "joe@whatever.com",
+		"url": "https://whatever.com"
+	},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
